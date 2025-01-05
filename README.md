@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Stack
 |  |
 | ------- |
@@ -67,9 +68,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 <!---LeetCode Topics End-->
