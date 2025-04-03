@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Amaankaa/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Amaankaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Amaankaa/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Amaankaa/LeetCode/tree/master/0155-min-stack) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Amaankaa/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Amaankaa/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Amaankaa/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0739-daily-temperatures](https://github.com/Amaankaa/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 ## Tree
 |  |
