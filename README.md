@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1916-find-center-of-star-graph](https://github.com/Amaankaa/LeetCode/tree/master/1916-find-center-of-star-graph) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
