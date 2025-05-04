@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Amaankaa/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0463-island-perimeter](https://github.com/Amaankaa/LeetCode/tree/master/0463-island-perimeter) |
+| [1005-univalued-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Amaankaa/LeetCode/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Amaankaa/LeetCode/tree/master/0463-island-perimeter) |
+| [1005-univalued-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1005-univalued-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
 |  |
