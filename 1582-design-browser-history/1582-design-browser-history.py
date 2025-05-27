@@ -16,13 +16,13 @@ class BrowserHistory:
         self.curr = self.newPage
 
     def back(self, steps: int) -> str:
-        while self.curr and self.curr.prev and steps > 0:
+        while self.curr.prev and steps > 0:
             self.curr = self.curr.prev
             steps -= 1
         return self.curr.val
 
     def forward(self, steps: int) -> str:
-        while self.curr and self.curr.next and steps > 0:
+        while self.curr.next and steps > 0:
             self.curr = self.curr.next
             steps -= 1
         return self.curr.val
