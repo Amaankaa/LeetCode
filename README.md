@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Amaankaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Amaankaa/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Amaankaa/LeetCode/tree/master/0890-lemonade-change) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amaankaa/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Amaankaa/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Amaankaa/LeetCode/tree/master/0890-lemonade-change) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Amaankaa/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Amaankaa/LeetCode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
+| [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Amaankaa/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amaankaa/LeetCode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
+| [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Amaankaa/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amaankaa/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Union Find
