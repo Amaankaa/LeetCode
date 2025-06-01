@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-product-of-the-last-k-numbers](https://github.com/Amaankaa/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Amaankaa/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
+| [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Greedy
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Amaankaa/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 ## Prefix Sum
 |  |
