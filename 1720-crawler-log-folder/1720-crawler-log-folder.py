@@ -8,4 +8,4 @@ class Solution:
                 continue
             else:
                 res.append('a')
-        return len(res) if res else 0
+        return len(res)
