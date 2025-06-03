@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Amaankaa/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/Amaankaa/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0886-score-of-parentheses) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Greedy
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Amaankaa/LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Amaankaa/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0886-score-of-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0886-score-of-parentheses) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Amaankaa/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
