@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Amaankaa/LeetCode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Amaankaa/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amaankaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amaankaa/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amaankaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amaankaa/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amaankaa/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amaankaa/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Amaankaa/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Amaankaa/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Amaankaa/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Amaankaa/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Amaankaa/LeetCode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Amaankaa/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Amaankaa/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
