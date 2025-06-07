@@ -156,18 +156,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0969-number-of-recent-calls](https://github.com/Amaankaa/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amaankaa/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Amaankaa/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0969-number-of-recent-calls](https://github.com/Amaankaa/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Amaankaa/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Data Stream
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/Amaankaa/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amaankaa/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
 |  |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Amaankaa/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Simulation
 |  |
 | ------- |
