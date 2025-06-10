@@ -25,9 +25,7 @@ class Solution:
             
             if level%2 == 1:
                 level_nodes.reverse()
-                res.append(level_nodes)
-                level += 1
-                continue
+                
             res.append(level_nodes)
             level += 1
         
