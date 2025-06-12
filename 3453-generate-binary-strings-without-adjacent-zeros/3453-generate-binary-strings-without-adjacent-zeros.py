@@ -2,14 +2,15 @@ class Solution:
     def validStrings(self, n: int) -> List[str]:
         res = []
 
-        for i in range(2**n):
-            binary = bin(i)[2:].zfill(n)
-            is_valid = True
-            for j in range(len(binary) - 1):
-                if binary[j] == '0' and binary[j + 1] == '0':
-                    is_valid = False
-                    break
-            if is_valid:
-                res.append(binary)
-        
+        def dfs(current):
+            if len(current) == n:
+                res.append(current)
+                return
+            
+            dfs(current + '1')
+
+            if not current or current[-1] == '1':
+                dfs(current + '0')
+            
+        dfs('')
         return res
