@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Amaankaa/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amaankaa/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Amaankaa/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -193,12 +194,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Amaankaa/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Amaankaa/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
+| [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 ## Backtracking
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Amaankaa/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Amaankaa/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
+| [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Amaankaa/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amaankaa/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Amaankaa/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Amaankaa/LeetCode/tree/master/0342-power-of-four) |
+| [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2509-minimize-xor](https://github.com/Amaankaa/LeetCode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amaankaa/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -419,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Amaankaa/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amaankaa/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Amaankaa/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+## Bitmask
+|  |
+| ------- |
+| [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 <!---LeetCode Topics End-->
