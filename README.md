@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Amaankaa/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Amaankaa/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Amaankaa/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Greedy
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1285-balance-a-binary-search-tree](https://github.com/Amaankaa/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Amaankaa/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Amaankaa/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Amaankaa/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Amaankaa/LeetCode/tree/master/2509-minimize-xor) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sorting
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Amaankaa/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Amaankaa/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Amaankaa/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amaankaa/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Design
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Amaankaa/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/Amaankaa/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Amaankaa/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amaankaa/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
