@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Amaankaa/LeetCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/Amaankaa/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Amaankaa/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Amaankaa/LeetCode/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
