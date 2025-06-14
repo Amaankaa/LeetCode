@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Amaankaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Amaankaa/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Amaankaa/LeetCode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Amaankaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
 |  |
