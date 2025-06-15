@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Amaankaa/LeetCode/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Amaankaa/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amaankaa/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Amaankaa/LeetCode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Amaankaa/LeetCode/tree/master/0077-combinations) |
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Amaankaa/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Amaankaa/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Amaankaa/LeetCode/tree/master/0022-generate-parentheses) |
 | [0344-reverse-string](https://github.com/Amaankaa/LeetCode/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Amaankaa/LeetCode/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
