@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Amaankaa/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Amaankaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Amaankaa/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Amaankaa/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0456-132-pattern](https://github.com/Amaankaa/LeetCode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/Amaankaa/LeetCode/tree/master/0463-island-perimeter) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Amaankaa/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Amaankaa/LeetCode/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Amaankaa/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
