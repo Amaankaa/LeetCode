@@ -4,7 +4,7 @@ class Solution:
         count = 1
         curr = nums[0]
 
-        for i in range(len(nums)):
+        for i in range(1, len(nums)):
             if (nums[i] - curr) > k:
                 count += 1
                 curr = nums[i]
