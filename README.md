@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Amaankaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Amaankaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Amaankaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Amaankaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/Amaankaa/LeetCode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Amaankaa/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Amaankaa/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Amaankaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Amaankaa/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/Amaankaa/LeetCode/tree/master/2509-minimize-xor) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Amaankaa/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Amaankaa/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Amaankaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Amaankaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
