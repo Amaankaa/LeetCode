@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Amaankaa/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Amaankaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Amaankaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Amaankaa/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Amaankaa/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Amaankaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Amaankaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Amaankaa/LeetCode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Amaankaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
