@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Amaankaa/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Amaankaa/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Amaankaa/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/Amaankaa/LeetCode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Amaankaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/Amaankaa/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
