@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Amaankaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Amaankaa/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Amaankaa/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Amaankaa/LeetCode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Amaankaa/LeetCode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Sliding Window
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Amaankaa/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Amaankaa/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/Amaankaa/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Quickselect
 |  |
 | ------- |
@@ -451,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/Amaankaa/LeetCode/tree/master/0456-132-pattern) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Amaankaa/LeetCode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -480,4 +484,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Amaankaa/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Segment Tree
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Merge Sort
+|  |
+| ------- |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
 <!---LeetCode Topics End-->
