@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Amaankaa/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/Amaankaa/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amaankaa/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0922-possible-bipartition](https://github.com/Amaankaa/LeetCode/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Amaankaa/LeetCode/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Amaankaa/LeetCode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0463-island-perimeter](https://github.com/Amaankaa/LeetCode/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Amaankaa/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0922-possible-bipartition](https://github.com/Amaankaa/LeetCode/tree/master/0922-possible-bipartition) |
 | [1005-univalued-binary-tree](https://github.com/Amaankaa/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/Amaankaa/LeetCode/tree/master/0922-possible-bipartition) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1916-find-center-of-star-graph](https://github.com/Amaankaa/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0922-possible-bipartition](https://github.com/Amaankaa/LeetCode/tree/master/0922-possible-bipartition) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
