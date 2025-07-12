@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Amaankaa/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amaankaa/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Amaankaa/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
@@ -503,4 +504,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2513-number-of-pairs-satisfying-inequality](https://github.com/Amaankaa/LeetCode/tree/master/2513-number-of-pairs-satisfying-inequality) |
+## Memoization
+|  |
+| ------- |
+| [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amaankaa/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 <!---LeetCode Topics End-->
