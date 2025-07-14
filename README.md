@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-design-browser-history](https://github.com/Amaankaa/LeetCode/tree/master/1582-design-browser-history) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Amaankaa/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Amaankaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Amaankaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-reveal-cards-in-increasing-order](https://github.com/Amaankaa/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1095-two-city-scheduling](https://github.com/Amaankaa/LeetCode/tree/master/1095-two-city-scheduling) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Amaankaa/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Amaankaa/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Amaankaa/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Amaankaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0922-possible-bipartition](https://github.com/Amaankaa/LeetCode/tree/master/0922-possible-bipartition) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Amaankaa/LeetCode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Amaankaa/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1916-find-center-of-star-graph](https://github.com/Amaankaa/LeetCode/tree/master/1916-find-center-of-star-graph) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Amaankaa/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/Amaankaa/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Amaankaa/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 ## Binary Search
 |  |
 | ------- |
@@ -401,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0922-possible-bipartition](https://github.com/Amaankaa/LeetCode/tree/master/0922-possible-bipartition) |
+| [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Amaankaa/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amaankaa/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Divide and Conquer
 |  |
