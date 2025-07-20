@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1815-checking-existence-of-edge-length-limited-paths](https://github.com/Amaankaa/LeetCode/tree/master/1815-checking-existence-of-edge-length-limited-paths) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Amaankaa/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Amaankaa/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Amaankaa/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Amaankaa/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Amaankaa/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1720-crawler-log-folder](https://github.com/Amaankaa/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Amaankaa/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Amaankaa/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
 | [2470-removing-stars-from-a-string](https://github.com/Amaankaa/LeetCode/tree/master/2470-removing-stars-from-a-string) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Amaankaa/LeetCode/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Amaankaa/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bit Manipulation
@@ -516,4 +519,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amaankaa/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## Trie
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Amaankaa/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Amaankaa/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
