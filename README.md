@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Amaankaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Amaankaa/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Amaankaa/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Stack
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amaankaa/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Amaankaa/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Amaankaa/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Amaankaa/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
 |  |
