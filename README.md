@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Amaankaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Amaankaa/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Amaankaa/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amaankaa/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Amaankaa/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Amaankaa/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Amaankaa/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amaankaa/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/Amaankaa/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/Amaankaa/LeetCode/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Amaankaa/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Amaankaa/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Bit Manipulation
 |  |
 | ------- |
