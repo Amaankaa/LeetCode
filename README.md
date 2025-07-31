@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Amaankaa/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0859-design-circular-deque](https://github.com/Amaankaa/LeetCode/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/Amaankaa/LeetCode/tree/master/0890-lemonade-change) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Amaankaa/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Amaankaa/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [0952-word-subsets](https://github.com/Amaankaa/LeetCode/tree/master/0952-word-subsets) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Amaankaa/LeetCode/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Amaankaa/LeetCode/tree/master/0338-counting-bits) |
 | [0486-predict-the-winner](https://github.com/Amaankaa/LeetCode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Amaankaa/LeetCode/tree/master/0494-target-sum) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Amaankaa/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/Amaankaa/LeetCode/tree/master/0943-sum-of-subarray-minimums) |
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amaankaa/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Amaankaa/LeetCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Amaankaa/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Amaankaa/LeetCode/tree/master/0342-power-of-four) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Amaankaa/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Amaankaa/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/Amaankaa/LeetCode/tree/master/2509-minimize-xor) |
