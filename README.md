@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1418-fair-distribution-of-cookies](https://github.com/Amaankaa/LeetCode/tree/master/1418-fair-distribution-of-cookies) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Amaankaa/LeetCode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Amaankaa/LeetCode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Amaankaa/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Amaankaa/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Amaankaa/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Backtracking
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Amaankaa/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/Amaankaa/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Amaankaa/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Amaankaa/LeetCode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Amaankaa/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 ## Hash Table
 |  |
